@@ -444,7 +444,7 @@ footer { padding: 28px 24px 48px; }
 /* === index-v7.html === */
 /* HERO IMAGE */
   .hero-image {
-    max-width: 720px;
+    max-width: 640px;
     margin: 64px auto 0;
     padding: 0 48px;
   }

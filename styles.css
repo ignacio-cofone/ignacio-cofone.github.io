@@ -257,12 +257,12 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 
 .book-feature .title {
   font-family: 'Fraunces', serif;
-  font-weight: 400;
-  font-size: clamp(28px, 3.2vw, 40px);
-  line-height: 1.15;
-  letter-spacing: -0.015em;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
   margin-bottom: 8px;
-  font-variation-settings: "opsz" 60, "SOFT" 30;
+  font-variation-settings: "opsz" 36, "SOFT" 30;
 }
 
 .book-feature .pub {
@@ -311,7 +311,7 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 .book-edited .title {
   font-family: 'Fraunces', serif;
   font-weight: 500;
-  font-size: 19px;
+  font-size: 20px;
   line-height: 1.3;
   margin-bottom: 6px;
   font-variation-settings: "opsz" 36, "SOFT" 30;
@@ -320,7 +320,7 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 .book-edited .pub {
   font-family: 'Source Serif 4', serif;
   font-style: italic;
-  font-size: 14.5px;
+  font-size: 16px;
   color: var(--ink-soft);
   margin-bottom: 4px;
 }
@@ -430,8 +430,8 @@ footer { padding: 28px 24px 48px; }
 .book-feature .title {
   font-family: 'Fraunces', serif;
   font-weight: 500;
-  font-size: clamp(20px, 2.0vw, 25px);
-  line-height: 1.2;
+  font-size: 20px;
+  line-height: 1.3;
   letter-spacing: -0.01em;
   margin-bottom: 8px;
   font-variation-settings: "opsz" 36, "SOFT" 30;

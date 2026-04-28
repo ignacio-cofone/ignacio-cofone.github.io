@@ -268,7 +268,7 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 .book-feature .pub {
   font-family: 'Source Serif 4', serif;
   font-style: italic;
-  font-size: 16px;
+  font-size: 15px;
   color: var(--ink-soft);
   margin-bottom: 22px;
 }
@@ -320,7 +320,7 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 .book-edited .pub {
   font-family: 'Source Serif 4', serif;
   font-style: italic;
-  font-size: 16px;
+  font-size: 15px;
   color: var(--ink-soft);
   margin-bottom: 4px;
 }

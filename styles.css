@@ -219,6 +219,13 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
   margin-right: 10px;
 }
 
+.simple-list a {
+  border-bottom: 1px solid var(--rule);
+  transition: color .2s, border-color .2s;
+}
+
+.simple-list a:hover { color: var(--accent); border-color: var(--accent); }
+
 /* PROSE */
 .prose p {
   margin-bottom: 18px;

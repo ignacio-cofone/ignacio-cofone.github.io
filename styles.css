@@ -653,4 +653,17 @@ footer {
     padding-bottom: 2px;
   }
 
+.advisory-list li {
+  font-style: italic;
+  color: var(--ink-muted);
+}
+
+.advisory-list li .label {
+  font-family: 'Fraunces', serif;
+  font-style: normal;
+  font-weight: 400;
+  color: var(--ink);
+  margin-right: 10px;
+}
+
 main { padding: 56px 24px; }

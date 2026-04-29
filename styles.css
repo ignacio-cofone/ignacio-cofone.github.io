@@ -118,12 +118,12 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 
 /* CONTENT */
 .page-content {
-  max-width: 880px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 64px 48px 96px;
 }
 
-.page-content.narrow { max-width: 720px; }
+.page-content.narrow { max-width: 800px; }
 
 .section { margin-top: 56px; }
 

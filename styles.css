@@ -215,7 +215,7 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 .simple-list li {
   padding: 10px 0;
   border-bottom: 1px solid var(--rule);
-  font-size: 16.5px;
+  font-size: 16px;
   color: var(--ink);
 }
 

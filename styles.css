@@ -148,7 +148,7 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
   font-style: italic;
   font-size: 15px;
   color: var(--ink-muted);
-  margin-top: 24px;
+  margin-top: 14px;
   margin-bottom: 14px;
   font-variation-settings: "opsz" 14;
 }

@@ -118,12 +118,12 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 
 /* CONTENT */
 .page-content {
-  max-width: 800px;
+  max-width: 780px;
   margin: 0 auto;
   padding: 64px 48px 96px;
 }
 
-.page-content.narrow { max-width: 800px; }
+.page-content.narrow { max-width: 780px; }
 
 .section { margin-top: 56px; }
 
@@ -311,7 +311,6 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
   font-size: 17px;
   line-height: 1.7;
   margin-bottom: 22px;
-  max-width: 680px;
 }
 
 .awards {
@@ -321,7 +320,6 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
   margin-bottom: 26px;
   font-size: 15px;
   line-height: 1.6;
-  max-width: 680px;
 }
 
 .awards .label {

@@ -245,6 +245,11 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
   color: var(--ink);
 }
 
+.section-label + .prose p:first-child,
+.section .prose p:first-child {
+  margin-top: 8px;
+}
+
 .prose p:last-child { margin-bottom: 0; }
 
 .prose em { font-style: italic; }

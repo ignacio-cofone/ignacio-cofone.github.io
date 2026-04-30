@@ -475,7 +475,7 @@ footer { padding: 28px 24px 48px; }
 
 .quick-links a:hover { color: var(--accent); border-color: var(--accent); }
 
-.section:first-child { margin-top: 24px; }
+.section:first-child { margin-top: 20px; }
 
 .quick-links { padding: 40px 24px 0; gap: 24px; }
 

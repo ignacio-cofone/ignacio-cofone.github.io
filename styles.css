@@ -235,6 +235,8 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 
 .simple-list a:hover { color: var(--accent); border-color: var(--accent); }
 
+.simple-list.no-rules li { border-bottom: 0; }
+
 /* PROSE */
 .prose p {
   margin-bottom: 18px;

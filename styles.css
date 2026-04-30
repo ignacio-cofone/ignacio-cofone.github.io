@@ -453,7 +453,7 @@ footer { padding: 28px 24px 48px; }
 .quick-links {
   max-width: 880px;
   margin: 0 auto;
-  padding: 72px 48px 0;
+  padding: 64px 48px 0;
   display: flex;
   gap: 32px;
   align-items: baseline;

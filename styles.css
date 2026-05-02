@@ -633,12 +633,6 @@ main {
 
 .nf .back:hover { color: var(--accent); border-color: var(--accent); }
 
-footer {
-    border-top: 1px solid var(--rule);
-    padding: 36px 48px;
-    text-align: center;
-  }
-
 .footer-links { display: flex; gap: 32px; justify-content: center; }
 
 .footer-links a {

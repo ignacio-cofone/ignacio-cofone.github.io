@@ -489,7 +489,7 @@ footer {
 
 .hero-image .frame {
     width: 100%;
-    aspect-ratio: 1100 / 660;
+    aspect-ratio: 1100 / 650;
     border: 1px solid var(--rule);
     overflow: hidden;
     background: var(--paper-deep);

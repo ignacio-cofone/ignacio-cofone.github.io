@@ -556,8 +556,6 @@ footer {
 
 .bio-wrap { padding: 40px 24px 64px; }
 
-.bio p:first-child::first-letter { font-size: 4.4em; }
-
 /* === 404.html === */
 :root {
     --ink: #1a1a1a;

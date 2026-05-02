@@ -538,11 +538,11 @@ footer {
 
 .bio em { font-style: italic; }
 
-/* DROP CAP — the new oxblood moment */
+/* DROP CAP */
   .bio p:first-child::first-letter {
     font-family: 'Fraunces', serif;
     font-weight: 400;
-    font-size: 4.4em;
+    font-size: 4.2em;
     line-height: 0.85;
     float: left;
     color: var(--accent);

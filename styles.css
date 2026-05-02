@@ -120,7 +120,7 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 .page-content {
   max-width: 780px;
   margin: 0 auto;
-  padding: 64px 48px 96px;
+  padding: 48px 48px 96px;
 }
 
 .page-content.narrow { max-width: 780px; }

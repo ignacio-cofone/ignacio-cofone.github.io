@@ -480,6 +480,10 @@ footer {
 
 .quick-links { padding: 40px 24px 0; gap: 24px; }
 
+.quick-links + .page-content {
+  padding-top: 40px;
+}
+
 /* === index-v7.html === */
 /* HERO IMAGE */
   .hero-image {

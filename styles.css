@@ -547,7 +547,7 @@ footer {
     float: left;
     color: var(--accent);
     padding: 0.04em 0.12em 0 0;
-    margin-top: -0.05em;
+    margin-top: -0.025em;
     font-variation-settings: "opsz" 144, "SOFT" 30;
   }
 

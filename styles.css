@@ -536,7 +536,7 @@ footer {
   .bio p:first-child::first-letter {
     font-family: 'Fraunces', serif;
     font-weight: 400;
-    font-size: 5.4em;
+    font-size: 4.4em;
     line-height: 0.85;
     float: left;
     color: var(--accent);

@@ -577,14 +577,6 @@ body {
     overflow-x: hidden;
   }
 
-.topbar {
-    border-bottom: 1px solid var(--rule);
-    padding: 22px 48px;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-  }
-
 nav a {
     font-family: 'Fraunces', serif;
     font-size: 13px;

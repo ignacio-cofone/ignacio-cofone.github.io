@@ -434,19 +434,21 @@ footer {
 
 .footer-links a:hover { color: var(--accent); border-color: var(--accent); }
 
-.topbar { padding: 16px 24px; flex-direction: column; gap: 14px; align-items: flex-start; }
+@media (max-width: 720px) {
+  .topbar { padding: 16px 24px; flex-direction: column; gap: 14px; align-items: flex-start; }
 
-nav ul { gap: 18px; flex-wrap: wrap; }
+  nav ul { gap: 18px; flex-wrap: wrap; }
 
-.page-header { padding: 48px 24px 24px; }
+  .page-header { padding: 48px 24px 24px; }
 
-.page-content { padding: 16px 24px 64px; }
+  .page-content { padding: 16px 24px 64px; }
 
-.contact-block { grid-template-columns: 1fr; gap: 8px; }
+  .contact-block { grid-template-columns: 1fr; gap: 8px; }
 
-.divider { padding: 0 24px; }
+  .divider { padding: 0 24px; }
 
-footer { padding: 28px 24px 48px; }
+  footer { padding: 28px 24px 48px; }
+}
 
 /* === research.html === */
 /* QUICK LINKS (top-of-page footer-style buttons) */

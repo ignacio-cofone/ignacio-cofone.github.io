@@ -401,6 +401,34 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
   margin-bottom: 4px;
 }
 
+/* EDITED BOOK COVERS */
+.book-edited {
+  position: relative;
+}
+
+.book-edited .edited-cover {
+  float: left;
+  width: 130px;
+  height: auto;
+  margin: 4px 28px 8px 0;
+  border: 1px solid var(--rule);
+}
+
+.book-edited::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 720px) {
+  .book-edited .edited-cover {
+    float: none;
+    display: block;
+    margin: 0 0 16px 0;
+    width: 150px;
+  }
+}
+
 /* CONTACT PAGE */
 .contact-block {
   margin-top: 32px;

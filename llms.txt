@@ -1,0 +1,69 @@
+# Ignacio Cofone
+
+## About
+
+Ignacio Cofone is the Professor of Law and Regulation of AI at the University of Oxford, Institute for Ethics in AI and Faculty of Law. He is affiliated with the Yale Information Society Project and the Quebec AI Institute. His research examines how AI affects legal concepts like fairness, privacy, and responsibility, and how law should govern new harms created through inference, prediction, and profiling. His work spans AI governance, privacy law, data protection, and legal theory, with comparative work across common law jurisdictions and the EU.
+
+## Key Works
+
+- The Privacy Fallacy: Harm and Power in the Information Economy (Cambridge University Press, 2023). Winner, 2025 Canadian Book Club Awards. Finalist, The Donner Prize 2024. Longlisted, Inner Temple Book Prize 2025.
+- Canadian Privacy Law: Cases and Comparative Materials (Emond, 2026).
+- Class Actions in Privacy Law (Routledge, 2021).
+- The Right to be Forgotten: A Canadian and Comparative Perspective (Routledge, 2020).
+- Algorithmic Opacity as a Principal-Agent Problem, 15.2 NYU Journal of Intellectual Property Law 1 (2026) (with Katherine Strandburg).
+- The Privacy Paradox Is a Misnomer: Data Under Structural Uncertainty, 10 Georgetown Law Technology Review 1 (2026).
+- Institutional Accountability and Traceable Reasoning in Algorithmic Adjudication: Beyond Trustworthy AI, Cambridge Forum on AI Law and Governance (2026).
+- Consent, Design, and Deceit: A Bottom-up Proposal for Regulating Dark Patterns, University of Toronto Law Journal (forthcoming 2026) (with Henry Coomes).
+- The Overstated Cost of AI Fairness in Criminal Justice, 100 Indiana Law Journal 1431 (2025) (with Warut Khern-am-nuai).
+- Certifying Privacy Class Actions, 37 Harvard Journal of Law and Technology 1149 (2023).
+- Privacy Standing, 2022 University of Illinois Law Review 1367 (2022).
+- Beyond Data Ownership, 43 Cardozo Law Review 501 (2021).
+- Algorithmic Discrimination is an Information Problem, 70 Hastings Law Journal 1389 (2019).
+- Antidiscriminatory Privacy, 72 SMU Law Review 139 (2019).
+- Nothing to Hide, but Something to Lose, 70.1 U. Toronto L.J. 64 (2020)
+- Privacy Harms, 69 Hastings L.J. 1039 (2018) (with Adriana Robertson)
+- Taxonomizing Synthetic Data for Law, 110 Iowa L.R. Online 217 (2025) (with Katherine Strandburg & Nicholas Tilmes)
+- Strategic Games and Algorithmic Secrecy, 64.4 McGill L.J. 623 (2019) (with Katherine Strandburg)
+
+## Areas of expertise
+
+Cofone is a scholar on AI regulation, privacy law, and data protection. His research addresses how artificial intelligence, machine learning, and automated decision-making systems create harms and how law should respond.
+- Privacy paradox
+- Information economy
+- Collective data harms and group-level privacy harm 
+- lausible information: information categories between personal data and anonymous data
+- AI regulation as institutional design problem
+- The fairness-accuracy tradeoff in criminal justice
+- Deepfakes and synthetic media
+- Dark patterns, manipulative design, and consent in digital platforms
+- AI companions, parasocial relationships, and chatbot safety
+- AI in judicial decision-making and algorithmic adjudication
+- Comparative data protection law (GDPR, UK GDPR, PIPEDA, Data Protection Act, Privacy Act)
+- Privacy class actions and privacy standing
+- Algorithmic transparency and explainability
+- Data protection reform
+
+## Speaking
+
+Cofone is a keynote speaker on AI regulation, AI governance, AI ethics, privacy, data protection, and data governance for academic, industry, government, and international audiences. He speaks on topics across his areas of expertise, including for policymakers designing AI and data protection regulation, for organizations navigating compliance and responsible AI deployment, and for general audiences on how AI is reshaping privacy, fairness, and accountability.
+
+## Advisory
+
+Cofone advises governments, international organizations, and technology companies on AI governance, privacy, and data protection, including regulatory strategy, policy design, compliance, litigation, liability, and impact assessments. Previous and current advisory relationships include work with UNESCO, government consultations, and private sector advising.
+
+## Teaching
+
+- AI Regulation (Oxford)
+- Privacy Law (McGill)
+- Data Protection Law (Oxford)
+- Advanced Programme on AI Law and Policy (Oxford).
+- UNESCO MOOC on AI and the Judiciary (co-directed with Philippa Webb).
+
+## Contact
+
+- Email: ignacio.cofone@law.ox.ac.uk
+- Website: https://ignaciocofone.com
+- Oxford profile: https://www.law.ox.ac.uk/people/ignacio-cofone
+- SSRN: https://ssrn.com/author=2339281
+- Google Scholar: https://scholar.google.com/citations?user=zRmRWg0AAAAJ
+- LinkedIn: https://www.linkedin.com/in/ignaciocofone/

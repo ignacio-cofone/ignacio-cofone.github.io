@@ -592,6 +592,11 @@ footer {
     padding: 56px 48px 96px;
   }
 
+.bio {
+  border-left: 3px solid var(--accent);
+  padding-left: 24px;
+}
+
 .bio p {
     margin-bottom: 22px;
     font-size: 17px;

@@ -367,8 +367,8 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 
 .awards .label {
   font-family: 'Newsreader', serif;
-  font-weight: 600;
-  font-size: 14px;
+  font-weight: 500;
+  font-size: 16px;
   letter-spacing: 0.04em;
   color: var(--accent);
   margin-bottom: 8px;

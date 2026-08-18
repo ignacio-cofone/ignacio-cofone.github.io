@@ -5,7 +5,7 @@
 :root {
   --ink: #1a1a1a;
   --ink-soft: #4a4a4a;
-  --ink-muted: #7a7a7a;
+  --ink-muted: #8a7e6e;
   --paper: #f4f1ec;
   --paper-deep: #eae3d7;
   --rule: #d9cfbe;
@@ -585,7 +585,7 @@ footer {
 :root {
     --ink: #1a1a1a;
     --ink-soft: #4a4a4a;
-    --ink-muted: #7a7a7a;
+    --ink-muted: #8a7e6e;
     --paper: #f4f1ec;
     --rule: #d9cfbe;
     --accent: #153d3d;

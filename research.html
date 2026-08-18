@@ -45,15 +45,14 @@
   align-items: center;
 }
 .research-profiles a {
-  font-family: 'Lora', serif;
-  font-size: 0.88rem;
+  font-size: 16px;
   letter-spacing: 0.02em;
-  color: #5a3530;
+  color: var(--accent);
   text-decoration: none;
-  transition: opacity 0.2s;
+  transition: color 0.2s;
 }
 .research-profiles a:hover {
-  opacity: 0.7;
+  color: var(--ink);
 }
 .research-profiles .arrow {
   margin-left: 0.3em;
@@ -61,14 +60,12 @@
   opacity: 0.6;
 }
 
-/* Section labels */
 .research-section {
   max-width: 780px;
   margin: 0 auto;
   padding: 0 1.5rem 2.5rem;
 }
 
-/* ── Two-column layout ── */
 .research-columns {
   max-width: 1080px;
   margin: 0 auto;
@@ -92,69 +89,60 @@
   margin-top: 1rem;
 }
 
-/* Narrow the rule + footer to match the columns — research page only.
-   Delete this rule to keep the site-wide 1240px width. */
 .divider,
 footer {
   max-width: 1080px;
 }
 
-
-/* Entry rows */
 .r-entry {
   display: grid;
   grid-template-columns: 56px minmax(0, 1fr);
   gap: 0 0.75rem;
   padding: 1.25rem 0;
-  border-bottom: 1px solid rgba(90, 53, 48, 0.08);
+  border-bottom: 1px solid var(--rule);
 }
 .r-entry:last-child {
   border-bottom: none;
 }
 
 .r-year {
-  font-family: 'Lora', serif;
-  font-size: 0.92rem;
-  color: #8a7e6e;
+  font-size: 17px;
+  color: var(--ink-muted);
   padding-top: 0.15em;
   line-height: 1.5;
 }
 
 .r-title {
-  font-family: 'Lora', serif;
-  font-size: 1.05rem;
+  font-size: 18px;
   font-weight: 400;
-  color: #2c2420;
+  color: var(--ink);
   line-height: 1.45;
   margin-bottom: 0.2rem;
 }
 
-/* Co-author line, sits above the citation */
 .r-authors {
-  font-family: 'Lora', serif;
   font-style: italic;
-  font-size: 0.88rem;
-  color: #8a7e6e;
+  font-size: 16px;
+  color: var(--ink-muted);
   line-height: 1.5;
   margin-bottom: 0.1rem;
 }
 
 .r-cite {
-  font-family: 'Lora', serif;
   font-style: italic;
-  font-size: 0.9rem;
-  color: #8a7e6e;
+  font-size: 16px;
+  color: var(--ink-muted);
   line-height: 1.55;
 }
 .r-cite a {
   font-style: normal;
-  color: #5a3530;
+  color: var(--accent);
   font-weight: 600;
   text-decoration: none;
   transition: color 0.2s;
 }
 .r-cite a:hover {
-  color: #2c2420;
+  color: var(--ink);
 }
 .r-cite .sep {
   font-style: normal;
@@ -166,50 +154,46 @@ footer {
   font-weight: 400;
 }
 
-/* Link row, sits below the citation */
 .r-links {
-  font-family: 'Lora', serif;
-  font-size: 0.88rem;
+  font-size: 16px;
   line-height: 1.55;
   margin-top: 0.3rem;
 }
 .r-links a {
-  color: #5a3530;
+  color: var(--accent);
   font-weight: 600;
   text-decoration: none;
   transition: color 0.2s;
 }
 .r-links a:hover {
-  color: #2c2420;
+  color: var(--ink);
 }
 .r-links .sep {
-  color: #8a7e6e;
+  color: var(--ink-muted);
   margin: 0 0.1em;
   opacity: 0.4;
 }
 .r-links .preprint {
   font-style: italic;
   font-weight: 400;
-  color: #8a7e6e;
+  color: var(--ink-muted);
 }
 
 .r-note {
-  font-family: 'Lora', serif;
   font-style: italic;
-  font-size: 0.85rem;
-  color: #8a7e6e;
+  font-size: 15px;
+  color: var(--ink-muted);
   line-height: 1.55;
   margin-top: 0.3rem;
 }
 .r-note a {
-  color: #5a3530;
+  color: var(--accent);
   text-decoration: none;
 }
 .r-note a:hover {
-  color: #2c2420;
+  color: var(--ink);
 }
 
-/* ── Stack to one column below 900px ── */
 @media (max-width: 900px) {
   .research-profiles {
     max-width: 780px;
@@ -223,7 +207,6 @@ footer {
   }
 }
 
-/* ── Mobile ── */
 @media (max-width: 600px) {
   .research-profiles {
     padding: 0 1.2rem;
@@ -241,23 +224,23 @@ footer {
     padding: 1.1rem 0;
   }
   .r-year {
-    font-size: 0.82rem;
+    font-size: 15px;
     margin-bottom: 0.15rem;
   }
   .r-title {
-    font-size: 1rem;
+    font-size: 17px;
   }
   .r-authors {
-    font-size: 0.84rem;
+    font-size: 15px;
   }
   .r-cite {
-    font-size: 0.85rem;
+    font-size: 15px;
   }
   .r-links {
-    font-size: 0.84rem;
+    font-size: 15px;
   }
   .r-note {
-    font-size: 0.82rem;
+    font-size: 14px;
   }
 }
 </style>

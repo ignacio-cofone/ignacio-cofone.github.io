@@ -674,9 +674,9 @@ main {
 }
 
 .advisory-list li .label {
-  font-family: 'Newsreader', serif;
+  font-family: 'Lora', Georgia, serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 600;
   color: var(--ink);
   margin-right: 10px;
 }

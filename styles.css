@@ -148,7 +148,7 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 .subsection-label {
   font-family: 'Newsreader', serif;
   font-style: italic;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--ink-muted);
   margin-top: 14px;
   margin-bottom: 14px;

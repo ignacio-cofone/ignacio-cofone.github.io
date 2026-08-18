@@ -473,8 +473,6 @@ footer {
 
   .page-content { padding: 16px 24px 64px; }
 
-  .contact-block { grid-template-columns: 1fr; gap: 8px; }
-
   .divider { padding: 0 24px; }
 
   footer { padding: 28px 24px 48px; }

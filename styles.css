@@ -583,8 +583,6 @@ footer {
 
 .bio a:hover { color: var(--accent); border-color: var(--accent); }
 
-.hero-image { margin: 32px auto 0; padding: 0 24px; }
-
 .bio-wrap { padding: 40px 24px 64px; }
 
 /* === 404.html === */

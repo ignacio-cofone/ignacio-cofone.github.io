@@ -170,8 +170,18 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 .entry:last-child { border-bottom: 0; }
 
 .entry .title {
-  font-style: italic;
+  font-family: 'Newsreader', serif;
+  font-style: normal;
   font-weight: 500;
+  font-size: 17px;
+}
+
+.entry .title::after {
+  content: ' · ';
+  color: var(--ink-muted);
+  font-family: 'Lora', Georgia, serif;
+  font-weight: 400;
+  font-size: 16px;
 }
 
 .entry .meta {

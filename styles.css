@@ -532,7 +532,7 @@ footer {
     width: 100%;
     aspect-ratio: 1100 / 650;
     overflow: hidden;
-    background: var(--paper-deep);
+    background: var(--paper);
   }
 
 .hero-image img {

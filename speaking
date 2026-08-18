@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Speaking — Ignacio Cofone</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
+
+<meta name="description" content="Keynote lectures on AI governance, privacy law, and data protection to governments, regulators, and industry audiences worldwide.">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Speaking — Ignacio Cofone">
+<meta property="og:description" content="Keynote lectures on AI governance, privacy law, and data protection to governments, regulators, and industry audiences worldwide.">
+<meta property="og:image" content="https://ignaciocofone.com/photo.jpg">
+<meta property="og:url" content="https://ignaciocofone.com/speaking.html">
+<meta property="og:type" content="profile">
+<meta property="og:site_name" content="Ignacio Cofone">
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Speaking — Ignacio Cofone">
+<meta name="twitter:description" content="Keynote lectures on AI governance, privacy law, and data protection to governments, regulators, and industry audiences worldwide.">
+<meta name="twitter:image" content="https://ignaciocofone.com/photo.jpg">
+
+<!-- Favicons -->
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+
+<link rel="canonical" href="https://ignaciocofone.com/speaking.html">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a href="index.html" class="wordmark">Ignacio <span class="surname">Cofone</span></a>
+  <nav>
+    <ul>
+      <li><a href="index.html" >Home</a></li>
+      <li><a href="books.html" >Books</a></li>
+      <li><a href="research.html" >Research</a></li>
+      <li><a href="teaching.html" >Teaching</a></li>
+      <li><a href="speaking.html" class="current">Speaking</a></li>
+      <li><a href="engagement.html" >Engagement</a></li>
+      <li><a href="contact.html" >Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<h1 class="sr-only">Speaking</h1>
+
+<section class="page-content narrow">
+
+  <div class="section">
+    <div class="prose">
+      <p>Ignacio gives keynotes and lectures on AI governance and data protection law to governments, regulators, NGOs, and industry audiences. His talks, given in over twenty countries, translate the policy questions that AI creates into concrete stakes for policymakers and industry.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <span class="section-label">Selected keynotes</span>
+
+    <div style="display: grid; grid-template-columns: clamp(100px, 22vw, 180px) 1fr; gap: 28px; padding: 16px 0; border-bottom: 1px solid var(--rule);">
+      <div style="font-family: 'Fraunces', serif; font-style: italic; font-size: 15px; color: var(--ink-muted); padding-top: 2px;">AI governance across legal systems</div>
+      <div style="font-size: 16px; line-height: 1.7;">
+        Centre for Business Law Annual Lecture, University of Leeds <span style="color: var(--ink-soft);">(Feb 2026)</span><br>
+        Sixth International Conference of Digital Law and Future Rule of Law, Renmin University, China <span style="color: var(--ink-soft);">(Oct 2025)</span><br>
+        Lawtomation Conference, IE University, Madrid <span style="color: var(--ink-soft);">(Oct 2025)</span><br>
+        International Conference on New Age Legal Dynamics: Social Media and Artificial Intelligence, UPES, Dehradun <span style="color: var(--ink-soft);">(Sep 2025)</span><br>
+        Algorithmic Regulation and Doctor-Patient Autonomy in A.I.-Driven Healthcare, King's College London <span style="color: var(--ink-soft);">(Jun 2025)</span>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: clamp(100px, 22vw, 180px) 1fr; gap: 28px; padding: 16px 0; border-bottom: 1px solid var(--rule);">
+      <div style="font-family: 'Fraunces', serif; font-style: italic; font-size: 15px; color: var(--ink-muted); padding-top: 2px;">Privacy and data protection for AI</div>
+      <div style="font-size: 16px; line-height: 1.7;">
+        Collective Redress and Digital Fairness Conference, University of Amsterdam <span style="color: var(--ink-soft);">(Dec 2025)</span><br>
+        Canada Revenue Agency Data Privacy Week Lecture, Canada Revenue Agency, Ottawa <span style="color: var(--ink-soft);">(Jan 2024)</span><br>
+        Department of Justice Conference on Privacy and Information Law, Justice Canada, Ottawa <span style="color: var(--ink-soft);">(Nov 2023)</span><br>
+        Conférence annuelle des commissaires et ombudsman à la protection de la vie privée fédéral, provinciaux et territoriaux, Ville de Québec <span style="color: var(--ink-soft);">(Oct 2023)</span>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: clamp(100px, 22vw, 180px) 1fr; gap: 28px; padding: 16px 0;">
+      <div style="font-family: 'Fraunces', serif; font-style: italic; font-size: 15px; color: var(--ink-muted); padding-top: 2px;">AI in high-stakes decision-making</div>
+      <div style="font-size: 16px; line-height: 1.7;">
+        13th International Ethics Summit, TEID, Istanbul <span style="color: var(--ink-soft);">(Nov 2026)</span><br>
+        Beyond Legal Boundaries: Reimagining Justice in an Interdisciplinary World, University of Edinburgh <span style="color: var(--ink-soft);">(Jun 2026)</span><br>
+        Congress on Collective Redress and Consumers, Universidad de Valladolid <span style="color: var(--ink-soft);">(Feb 2026)</span><br>
+        Towards Trustworthy and Responsible A.I. in Adjudication Conference, Erasmus University Rotterdam <span style="color: var(--ink-soft);">(Oct 2025)</span><br>
+        Access to Justice Summit, University of New Brunswick <span style="color: var(--ink-soft);">(Aug 2024)</span>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+
+<div class="divider"><hr></div>
+
+<footer>
+  <div class="footer-links">
+    <a href="https://www.law.ox.ac.uk/people/ignacio-cofone">Oxford</a>
+    <a href="https://www.linkedin.com/in/ignaciocofone/">LinkedIn</a>
+    <a href="https://privacyfallacy.com">Privacy Fallacy</a>
+  </div>
+</footer>
+
+</body>
+</html>

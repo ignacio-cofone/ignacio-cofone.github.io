@@ -563,8 +563,9 @@ footer {
   }
 
 .bio {
-  border-left: 3px solid var(--accent);
-  padding-left: 24px;
+  border-left: 2px solid var(--accent);
+  border-right: 2px solid var(--accent);
+  padding: 0 24px;
 }
 
 .bio p {

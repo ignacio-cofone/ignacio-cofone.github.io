@@ -491,9 +491,9 @@ footer {
 .quick-links {
   max-width: 880px;
   margin: 0 auto;
-  padding: 64px 48px 0;
+  padding: 40px 24px 0;
   display: flex;
-  gap: 32px;
+  gap: 24px;
   align-items: baseline;
   justify-content: center;
 }
@@ -512,8 +512,6 @@ footer {
 }
 
 .quick-links a:hover { color: var(--accent); border-color: var(--accent); }
-
-.quick-links { padding: 40px 24px 0; gap: 24px; }
 
 .quick-links + .page-content {
   padding-top: 40px;

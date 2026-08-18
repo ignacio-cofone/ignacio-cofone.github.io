@@ -9,7 +9,7 @@
   --paper: #f4f1ec;
   --paper-deep: #eae3d7;
   --rule: #d9cfbe;
-  --accent: #153d3d;
+  --accent: #3d4a2e;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -597,7 +597,7 @@ footer {
     --ink-muted: #8a7e6e;
     --paper: #f4f1ec;
     --rule: #d9cfbe;
-    --accent: #153d3d;
+    --accent: #3d4a2e;
   }
 
 body {

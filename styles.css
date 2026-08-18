@@ -442,14 +442,6 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
 
 .contact-block:last-of-type { border-bottom: 1px solid var(--rule); }
 
-.contact-label {
-  font-family: 'Newsreader', serif;
-  font-size: 15px;
-  letter-spacing: 0.04em;
-  color: var(--accent);
-  font-variation-settings: "opsz" 14;
-}
-
 .contact-value {
   font-size: 16px;
   line-height: 1.55;

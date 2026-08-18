@@ -429,31 +429,6 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
   }
 }
 
-/* CONTACT PAGE */
-.contact-block {
-  margin-top: 32px;
-  padding: 28px 0;
-  border-top: 1px solid var(--rule);
-  display: grid;
-  grid-template-columns: 180px 1fr;
-  gap: 32px;
-  align-items: baseline;
-}
-
-.contact-block:last-of-type { border-bottom: 1px solid var(--rule); }
-
-.contact-value {
-  font-size: 16px;
-  line-height: 1.55;
-}
-
-.contact-value a {
-  border-bottom: 1px solid var(--rule);
-  transition: color .2s, border-color .2s;
-}
-
-.contact-value a:hover { color: var(--accent); border-color: var(--accent); }
-
 /* DIVIDER */
 .divider {
   max-width: 1240px;

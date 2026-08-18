@@ -521,8 +521,8 @@ footer {
 /* HERO IMAGE */
   .hero-image {
     max-width: 720px;
-    margin: 64px auto 0;
-    padding: 0 48px;
+    margin: 32px auto 0;
+    padding: 0 24px;
   }
 
 .hero-image .frame {

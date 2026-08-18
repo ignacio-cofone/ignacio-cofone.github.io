@@ -270,19 +270,6 @@ nav a.current { color: var(--ink); border-color: var(--accent); }
   margin-bottom: 56px;
 }
 
-.book-feature .meta-line {
-  font-family: 'Newsreader', serif;
-  font-weight: 600;
-  font-size: 16px;
-  letter-spacing: 0.04em;
-  color: var(--accent);
-  margin-bottom: 18px;
-  font-variation-settings: "opsz" 14;
-  border-bottom: 1px solid var(--accent);
-  padding-bottom: 6px;
-  display: inline-block;
-}
-
 .book-feature .title {
   font-family: 'Newsreader', serif;
   font-weight: 500;

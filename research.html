@@ -184,9 +184,11 @@
 .r-note a {
   color: var(--accent);
   text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
 }
 .r-note a:hover {
-  color: var(--ink);
+  border-bottom-color: var(--accent);
 }
 
 @media (max-width: 900px) {

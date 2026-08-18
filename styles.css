@@ -679,7 +679,14 @@ main {
   font-weight: 500;
   font-size: 17px;
   color: var(--ink);
-  margin-right: 10px;
+  margin-right: 6px;
+}
+
+.advisory-list li .label::after {
+  content: ' · ';
+  color: var(--ink-muted);
+  font-style: normal;
+  font-weight: 400;
 }
 
 main { padding: 56px 24px; }
